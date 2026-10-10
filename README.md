@@ -24,24 +24,24 @@ Directories are **pure English** (no Chinese, no spaces) so paths stay shell-fri
 notes/
 ├── 01-College-Physics/                      大学物理
 │   ├── 01-Lecture-Notes/                    课堂笔记
-│   └── 02-Homework/                         课后习题
+│   └── 02-EX/                               课后习题
 ├── 02-Analog-Electronics/                   模拟电子技术基础
 │   ├── 01-Lecture-Notes/
-│   └── 02-Homework/
+│   └── 02-EX/
 ├── 03-Digital-Electronics/                  数字电子技术基础
 │   ├── 01-Lecture-Notes/
-│   └── 02-Homework/
+│   └── 02-EX/
 ├── 04-Signals-and-Systems/                  信号与系统
 │   ├── 01-Lecture-Notes/
-│   └── 02-Homework/
+│   └── 02-EX/
 ├── 05-Complex-Analysis-and-Integral-Transforms/   复变函数与积分变换
 │   ├── 01-Lecture-Notes/
-│   └── 02-Homework/
+│   └── 02-EX/
 └── _Inbox/                                  待归档（临时中转）
 ```
 
-The leading numbers pin the sort order on GitHub; `Lecture-Notes` always sorts before `Homework`.
-序号前缀固定 GitHub 上的排序；`Lecture-Notes` 永远排在 `Homework` 前面。
+The leading numbers pin the sort order on GitHub; `Lecture-Notes` always sorts before `EX`.
+序号前缀固定 GitHub 上的排序；`Lecture-Notes` 永远排在 `EX` 前面。
 
 ---
 
@@ -58,7 +58,7 @@ NN-English-Terminology-中文术语.pdf
 | Chinese part mirrors the English meaning. | 中文部分与英文含义对应。 |
 | Multiple topics joined with hyphens in both parts. | 一章多个主题时，中英文部分都用连字符连接。 |
 | **Lecture notes: one page = one PDF.** | **笔记：一页 = 一个 PDF。** |
-| **Homework: one chapter = one PDF.** | **习题：一章 = 一个 PDF。** |
+| **EX (exercises): one chapter = one PDF.** | **习题：一章 = 一个 PDF。** |
 
 Examples / 示例:
 
@@ -91,7 +91,7 @@ Examples / 示例:
 | 14 | Electrostatic Field — Dielectrics and Field Energy | 静电场 — 电介质与电场能 |
 | 15 | Steady Magnetic Field — Biot–Savart Law and Ampère's Circuital Law | 稳恒磁场 — 毕奥-萨伐尔定律、安培环路定理 |
 
-### 01 College Physics · Homework / 大学物理 · 课后习题
+### 01 College Physics · EX (Exercises) / 大学物理 · 课后习题
 
 | No. | English | 中文 | Problems / 题号 |
 |-----|---------|------|-----------------|
@@ -114,7 +114,7 @@ Examples / 示例:
 | 04 | Diode Circuit Analysis | 二极管电路分析 |
 | 05 | Zener Diodes | 稳压二极管 |
 
-### 02 Analog Electronics · Homework / 模拟电子技术基础 · 课后习题
+### 02 Analog Electronics · EX (Exercises) / 模拟电子技术基础 · 课后习题
 
 | No. | English | 中文 | Problems / 题号 |
 |-----|---------|------|-----------------|
@@ -151,5 +151,5 @@ Examples / 示例:
 | PDF size comes mostly from embedded raster screenshots; recompressing those at JPEG q=88 with an 1800 px cap cuts size ~60–80% with no visible loss to handwriting. | PDF 体积主要来自内嵌的栅格截图；以 JPEG q=88、1800px 上限重压可减小约 60–80%，手写部分无可察觉损失。 |
 | GitHub warns above 50 MB and rejects files above 100 MB per file. | GitHub 单文件超过 50 MB 会告警，超过 100 MB 直接拒绝。 |
 | Keep total repo size under ~1 GB before considering Git LFS. | 仓库总量超过约 1 GB 再考虑 Git LFS。 |
-| Homework PDFs containing a handwritten name or student ID are redacted before upload. | 含手写姓名或学号的习题 PDF，上传前会先做遮罩处理。 |
+| EX PDFs containing a handwritten name or student ID are redacted before upload. | 含手写姓名或学号的习题 PDF，上传前会先做遮罩处理。 |
 | `_Inbox/` is a staging area — move files into the right course promptly. | `_Inbox/` 是临时中转区 — 请及时把文件归入对应课程。 |
