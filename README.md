@@ -122,6 +122,7 @@ Examples / 示例:
 | 03 | Semiconductor Diodes | 半导体二极管 |
 | 04 | Diode Circuit Analysis | 二极管电路分析 |
 | 05 | Zener Diodes | 稳压二极管 |
+| 06 | Bipolar Junction Transistors | 三极管 |
 
 ### 02 Analog Electronics · EX (Exercises) / 模拟电子技术基础 · 课后习题
 
