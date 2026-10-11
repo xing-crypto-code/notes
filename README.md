@@ -38,6 +38,9 @@ notes/
 ├── 05-Complex-Analysis-and-Integral-Transforms/   复变函数与积分变换
 │   ├── 01-Lecture-Notes/
 │   └── 02-EX/
+├── 06-Advanced-Mathematics/                 高等数学
+│   ├── 01-Lecture-Notes/
+│   └── 02-EX/
 └── _Inbox/                                  待归档（临时中转）
 ```
 
@@ -154,6 +157,12 @@ Notes follow the Bilibili course episode by episode, grouped into chapter folder
 | 03 | Typical Systems | 典型的系统 |
 | 04 | Typical Systems (Part 2) | 典型的系统（下） |
 | 05 | Definition of LTI Systems | LTI 系统的定义 |
+
+### 06 Advanced Mathematics · Lecture Notes / 高等数学 · 笔记
+
+| No. | English | 中文 | Scope / 范围 |
+|-----|---------|------|--------------|
+| 01 | Advanced Mathematics II — Framework | 高数下知识框架 | Mind-map canvas covering multivariable differentiation, multiple/line/surface integrals and infinite series / 思维导图：多元微分、重积分、曲线曲面积分、无穷级数 |
 
 ### 03 Digital Electronics / 数字电子技术基础
 
