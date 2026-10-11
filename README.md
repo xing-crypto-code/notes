@@ -33,6 +33,7 @@ notes/
 │   └── 02-EX/
 ├── 04-Signals-and-Systems/                  信号与系统
 │   ├── 01-Lecture-Notes/
+│   │   └── Chapter-01-Signals-and-Systems-Basics-信号与系统基本概念/
 │   └── 02-EX/
 ├── 05-Complex-Analysis-and-Integral-Transforms/   复变函数与积分变换
 │   ├── 01-Lecture-Notes/
@@ -42,6 +43,9 @@ notes/
 
 The leading numbers pin the sort order on GitHub; `Lecture-Notes` always sorts before `EX`.
 序号前缀固定 GitHub 上的排序；`Lecture-Notes` 永远排在 `EX` 前面。
+
+Where notes are written episode by episode (currently **04 Signals and Systems**), a `Chapter-NN-...` folder groups the episodes of one chapter; the PDFs sit directly inside it.
+逐集记录笔记的课程（目前为 **04 信号与系统**）额外用 `Chapter-NN-...` 文件夹把同一章的集数归拢，PDF 直接放在该文件夹内。
 
 ---
 
@@ -59,12 +63,14 @@ NN-English-Terminology-中文术语.pdf
 | Multiple topics joined with hyphens in both parts. | 一章多个主题时，中英文部分都用连字符连接。 |
 | **Lecture notes: one page = one PDF.** | **笔记：一页 = 一个 PDF。** |
 | **EX (exercises): one chapter = one PDF.** | **习题：一章 = 一个 PDF。** |
+| Inside an episode-based course, `NN` counts episodes within that chapter folder. | 逐集记录的课程中，`NN` 表示该章文件夹内的集号。 |
 
 Examples / 示例:
 
 - `01-Kinematics-of-a-Particle-质点运动学.pdf`
 - `12-Electrostatic-Field-Potential-and-Potential-Energy-静电场-电势与电势能.pdf`
 - `01-Chapter-3-Assignment-第3章作业.pdf`
+- `Chapter-01-Signals-and-Systems-Basics-信号与系统基本概念/03-Typical-Systems-典型的系统.pdf`
 
 ---
 
@@ -134,12 +140,26 @@ Examples / 示例:
 | 07 | Residues and the Residue Theorem | 留数与留数定理 |
 | 08 | Evaluating Definite Integrals by Residues | 用留数计算定积分 |
 
-### 03 Digital Electronics · 04 Signals and Systems / 数字电子技术基础 · 信号与系统
+### 04 Signals and Systems · Lecture Notes / 信号与系统 · 笔记
+
+Notes follow the Bilibili course episode by episode, grouped into chapter folders.
+笔记按 B 站课程逐集命名，归入章节目录。
+
+`01-Lecture-Notes/00-Cover-封面.pdf`, then `Chapter-01-Signals-and-Systems-Basics-信号与系统基本概念/`:
+
+| No. | English | 中文 |
+|-----|---------|------|
+| 01 | Typical Signals | 典型的信号 |
+| 02 | Transformations of the Independent Variable | 信号的自变量变换 |
+| 03 | Typical Systems | 典型的系统 |
+| 04 | Typical Systems (Part 2) | 典型的系统（下） |
+| 05 | Definition of LTI Systems | LTI 系统的定义 |
+
+### 03 Digital Electronics / 数字电子技术基础
 
 | Course / 课程 | Status / 状态 |
 |----------------|---------------|
 | 03 Digital Electronics / 数字电子技术基础 | Awaiting material / 待上传 |
-| 04 Signals and Systems / 信号与系统 | Awaiting material / 待上传 |
 
 ---
 
