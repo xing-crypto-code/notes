@@ -164,8 +164,8 @@ Notes follow the Bilibili course episode by episode, grouped into chapter folder
 |-----|---------|------|--------------|
 | 01 | Advanced Mathematics II — Framework | 高数下知识框架 | Mind-map canvas covering multivariable differentiation, multiple/line/surface integrals and infinite series / 思维导图：多元微分、重积分、曲线曲面积分、无穷级数 |
 
-> This file is a single large canvas (5844 × 5510 pt, 136 embedded images, effective 143–275 DPI). It is uploaded **at full resolution** so it stays readable at any zoom — GitHub's 100 MB per-file limit is not a constraint here.
-> 该文件是一张大型画布（5844 × 5510 pt，内嵌 136 张图，有效分辨率 143–275 DPI）。**按原始分辨率上传**，保证任意缩放都清晰可读 —— GitHub 单文件 100 MB 上限并非限制。
+> This file is a single large canvas (5844 × 5510 pt, 136 embedded images, effective 143–275 DPI). It is stored **byte-for-byte as exported** — no re-encoding, no downsampling — so it stays readable at any zoom. At 23.9 MB it is well under GitHub's 100 MB per-file limit.
+> 该文件是一张大型画布（5844 × 5510 pt，内嵌 136 张图，有效分辨率 143–275 DPI）。**按导出原样逐字节保存**，未做任何重编码或降采样，保证任意缩放都清晰可读。23.9 MB 远低于 GitHub 单文件 100 MB 上限。
 
 ### 03 Digital Electronics / 数字电子技术基础
 
@@ -181,7 +181,7 @@ Notes follow the Bilibili course episode by episode, grouped into chapter folder
 |---------|------|
 | Handwritten ink in FreeNotes exports is **vector**, so it stays sharp at any zoom. | 自由笔记导出的手写笔迹是**矢量**，任意缩放都清晰。 |
 | PDF size comes mostly from embedded raster screenshots; recompressing those at JPEG q=88 with an 1800 px cap cuts size ~60–80% with no visible loss to handwriting. | PDF 体积主要来自内嵌的栅格截图；以 JPEG q=88、1800px 上限重压可减小约 60–80%，手写部分无可察觉损失。 |
-| **Exception — large canvas exports** (e.g. mind maps): the 1800 px cap is *not* applied, because zooming is the whole point. They keep full pixel resolution and only get a mild JPEG re-encode (q≈90). | **例外 —— 大型画布导出**（如思维导图）：**不**套用 1800px 上限，因为这类文件的价值就在于自由缩放。它们保留完整像素分辨率，仅做轻度 JPEG 重编码（q≈90）。 |
+| **Exception — large canvas exports** (e.g. mind maps): stored **as exported**, with no re-encoding and no downsampling. These files are meant to be zoomed, so every original pixel is kept; they are well under the 100 MB limit anyway. | **例外 —— 大型画布导出**（如思维导图）：**按导出原样保存**，不做重编码、不降采样。这类文件的用途就是自由缩放，因此保留全部原始像素；其体积本来也远低于 100 MB 上限。 |
 | GitHub warns above 50 MB and rejects files above 100 MB per file. | GitHub 单文件超过 50 MB 会告警，超过 100 MB 直接拒绝。 |
 | Keep total repo size under ~1 GB before considering Git LFS. | 仓库总量超过约 1 GB 再考虑 Git LFS。 |
 | EX PDFs containing a handwritten name or student ID are redacted before upload. | 含手写姓名或学号的习题 PDF，上传前会先做遮罩处理。 |
