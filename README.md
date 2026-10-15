@@ -99,6 +99,8 @@ Examples / 示例:
 | 13 | Electrostatic Field — Conductors and Capacitance | 静电场 — 导体与电容 |
 | 14 | Electrostatic Field — Dielectrics and Field Energy | 静电场 — 电介质与电场能 |
 | 15 | Steady Magnetic Field — Biot–Savart Law and Ampère's Circuital Law | 稳恒磁场 — 毕奥-萨伐尔定律、安培环路定理 |
+| 16 | Steady Magnetic Field — Magnetic Flux and Gauss's Law | 稳恒磁场 — 磁通量与高斯定理 |
+| 17 | Ampère Force, Magnetic Moment and Lorentz Force | 安培力、磁矩与洛伦兹力 |
 
 ### 01 College Physics · EX (Exercises) / 大学物理 · 课后习题
 
@@ -168,11 +170,18 @@ Notes follow the Bilibili course episode by episode, grouped into chapter folder
 > This file is a single large canvas (5844 × 5510 pt, 136 embedded images, effective 143–275 DPI). It is stored **byte-for-byte as exported** — no re-encoding, no downsampling — so it stays readable at any zoom. At 23.9 MB it is well under GitHub's 100 MB per-file limit.
 > 该文件是一张大型画布（5844 × 5510 pt，内嵌 136 张图，有效分辨率 143–275 DPI）。**按导出原样逐字节保存**，未做任何重编码或降采样，保证任意缩放都清晰可读。23.9 MB 远低于 GitHub 单文件 100 MB 上限。
 
-### 03 Digital Electronics / 数字电子技术基础
+### 03 Digital Electronics · Lecture Notes / 数字电子技术基础 · 笔记
 
-| Course / 课程 | Status / 状态 |
-|----------------|---------------|
-| 03 Digital Electronics / 数字电子技术基础 | Awaiting material / 待上传 |
+| No. | English | 中文 |
+|-----|---------|------|
+| 00 | Cover | 封面 |
+| 01 | Formula Simplification Method | 公式化简法 |
+
+### 03 Digital Electronics · EX (Exercises) / 数字电子技术基础 · 课后习题
+
+| No. | English | 中文 |
+|-----|---------|------|
+| — | Awaiting material | 待上传 |
 
 ---
 
