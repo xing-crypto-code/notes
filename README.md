@@ -52,6 +52,21 @@ Where notes are written episode by episode (currently **04 Signals and Systems**
 
 ---
 
+## 2.1 Quick Navigation / 快速导航
+
+The tree above is plain text; jump straight to a course instead.
+上面的目录树只是纯文本，这里可以直接跳到对应课程。
+
+| 课程 / Course | 笔记 / Notes | 习题 / Exercises |
+| --- | --- | --- |
+| 01 College Physics · 大学物理 | [01-Lecture-Notes](https://github.com/xing-crypto-code/notes/tree/main/01-College-Physics/01-Lecture-Notes) | [02-EX](https://github.com/xing-crypto-code/notes/tree/main/01-College-Physics/02-EX) |
+| 02 Analog Electronics · 模拟电子技术基础 | [01-Lecture-Notes](https://github.com/xing-crypto-code/notes/tree/main/02-Analog-Electronics/01-Lecture-Notes) | [02-EX](https://github.com/xing-crypto-code/notes/tree/main/02-Analog-Electronics/02-EX) |
+| 03 Digital Electronics · 数字电子技术基础 | [01-Lecture-Notes](https://github.com/xing-crypto-code/notes/tree/main/03-Digital-Electronics/01-Lecture-Notes) | [02-EX](https://github.com/xing-crypto-code/notes/tree/main/03-Digital-Electronics/02-EX) |
+| 04 Signals and Systems · 信号与系统 | [01-Lecture-Notes](https://github.com/xing-crypto-code/notes/tree/main/04-Signals-and-Systems/01-Lecture-Notes) | [02-EX](https://github.com/xing-crypto-code/notes/tree/main/04-Signals-and-Systems/02-EX) |
+| 05 Complex Analysis · 复变函数与积分变换 | [01-Lecture-Notes](https://github.com/xing-crypto-code/notes/tree/main/05-Complex-Analysis-and-Integral-Transforms/01-Lecture-Notes) | [02-EX](https://github.com/xing-crypto-code/notes/tree/main/05-Complex-Analysis-and-Integral-Transforms/02-EX) |
+| 06 Advanced Mathematics · 高等数学 | [01-Lecture-Notes](https://github.com/xing-crypto-code/notes/tree/main/06-Advanced-Mathematics/01-Lecture-Notes) | [02-EX](https://github.com/xing-crypto-code/notes/tree/main/06-Advanced-Mathematics/02-EX) |
+| Inbox · 待归档 | [_Inbox](https://github.com/xing-crypto-code/notes/tree/main/_Inbox) | — |
+
 ## 3. Naming Convention / 命名规范
 
 ```
