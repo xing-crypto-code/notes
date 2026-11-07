@@ -33,12 +33,16 @@ notes/
 │   └── 02-EX/
 ├── 04-Signals-and-Systems/                  信号与系统
 │   ├── 01-Lecture-Notes/
-│   │   └── Chapter-01-Signals-and-Systems-Basics-信号与系统基本概念/
+│   │   ├── Chapter-01-Signals-and-Systems-Basics-信号与系统基本概念/
+│   │   └── Chapter-02-LTI-System-Analysis-LTI系统分析/
 │   └── 02-EX/
 ├── 05-Complex-Analysis-and-Integral-Transforms/   复变函数与积分变换
 │   ├── 01-Lecture-Notes/
 │   └── 02-EX/
 ├── 06-Advanced-Mathematics/                 高等数学
+│   ├── 01-Lecture-Notes/
+│   └── 02-EX/
+├── 07-Linear-Algebra/                       线性代数
 │   ├── 01-Lecture-Notes/
 │   └── 02-EX/
 └── _Inbox/                                  待归档（临时中转）
@@ -116,6 +120,9 @@ Examples / 示例:
 | 15 | Steady Magnetic Field — Biot–Savart Law and Ampère's Circuital Law | 稳恒磁场 — 毕奥-萨伐尔定律、安培环路定理 |
 | 16 | Steady Magnetic Field — Magnetic Flux and Gauss's Law | 稳恒磁场 — 磁通量与高斯定理 |
 | 17 | Ampère Force, Magnetic Moment and Lorentz Force | 安培力、磁矩与洛伦兹力 |
+| 18 | Magnetic Media and Magnetic Field Energy | 磁介质与磁场能 |
+| 19 | Electromagnetic Induction | 电磁感应 |
+| 20 | Self and Mutual Inductance and Maxwell's Equations | 自感与互感与麦克斯韦方程 |
 
 ### 01 College Physics · EX (Exercises) / 大学物理 · 课后习题
 
@@ -140,12 +147,15 @@ Examples / 示例:
 | 04 | Diode Circuit Analysis | 二极管电路分析 |
 | 05 | Zener Diodes | 稳压二极管 |
 | 06 | Bipolar Junction Transistors | 三极管 |
+| 07 | Field-Effect Transistors | 场效应晶体管 |
 
 ### 02 Analog Electronics · EX (Exercises) / 模拟电子技术基础 · 课后习题
 
 | No. | English | 中文 | Problems / 题号 |
 |-----|---------|------|-----------------|
 | 01 | Chapter 3 Assignment | 第 3 章作业 | 3.4, 3.5, 3.9, 3.10, 3.13 |
+| 02 | Chapter 5 Assignment | 第 5 章作业 | — |
+| 03 | Bipolar Junction Transistor Problems | 三极管习题 | — |
 
 ### 05 Complex Analysis and Integral Transforms · Lecture Notes / 复变函数与积分变换 · 笔记
 
@@ -175,6 +185,23 @@ Notes follow the Bilibili course episode by episode, grouped into chapter folder
 | 03 | Typical Systems | 典型的系统 |
 | 04 | Typical Systems (Part 2) | 典型的系统（下） |
 | 05 | Definition of LTI Systems | LTI 系统的定义 |
+| 06 | Signal Representation and Classification | 信号的表示与分类 |
+| 07 | Impulse Signal | 冲激信号 |
+
+`Chapter-02-LTI-System-Analysis-LTI系统分析/`:
+
+| No. | English | 中文 |
+|-----|---------|------|
+| 01 | Differential and Difference Equations | 微分方程与差分方程 |
+| 02 | The Full Response | 全响应 |
+| 03 | Convolution and the Graphical Method | 卷积与图解法 |
+| 04 | Properties of Convolution | 卷积的性质 |
+
+### 04 Signals and Systems · EX (Exercises) / 信号与系统 · 课后习题
+
+| No. | English | 中文 | Problems / 题号 |
+|-----|---------|------|-----------------|
+| 01 | Chapter 1 Assignment | 第 1 章作业 | — |
 
 ### 06 Advanced Mathematics · Lecture Notes / 高等数学 · 笔记
 
